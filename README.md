@@ -19,7 +19,6 @@ Built with **React** frontend and **FastAPI** backend using the official NBA API
 ## Demo
 
 ![Screenshot](./image.png)  
-*Add your project screenshot here*
 
 ---
 
